@@ -1,0 +1,124 @@
+{
+    "intents":[
+        {
+            "intent": "Get Weather",
+            "texts": [
+                "What is the weather like today?",
+                "what is the weather like yesterday?",
+                "what is the weather like tomorrow?",
+                "what is the temperature today?",
+                "what is the weather like in early morning time",
+                "Is it raining now?",
+                "will it rain today?",
+                "Share me the weather report",
+                "Is the weather good today?",
+                "Is it sunny?",
+                "Is the current temperature is high or low?",
+                "Get details on the weather humidity",
+                "Get the weather for the next 6 hours",
+                "Get the weather for the next 3 days"
+            ]
+        },
+        {
+            "intent": "Get Fact",
+            "texts": [
+                "Tell me an interesting fact",
+                "Tell me facts that are trending",
+                "Tell me few interesting fact of last year",
+                "What are the new facts?",
+                "Share me few facts about economy",
+                "Tell me some funny fact",
+                "Tell me some fact?",
+                "Tell me somethiing",
+                "Please share an interesting fact?",
+                "Share me few past interesting facts?"
+            ]
+        },
+        {
+            "intent": "Get Weather City",
+            "texts": [
+                "What is the weather like today?",
+                "what is the weather like yesterday?",
+                "what is the weather like tomorrow?",
+                "what is the temperature today?",
+                "what is the weather like in early morning time",
+                "Is it raining now?",
+                "will it rain today?",
+                "Share me the weather report",
+                "Is the weather good today?",
+                "Is it sunny?",
+                "Is the current temperature is high or low?",
+                "Get details on the weather humidity",
+                "Get the weather for the next 6 hours",
+                "Get the weather for the next 3 days" 
+            ],
+            "tags": {
+                "city" : [
+                    "berlin",
+                    "hamburg",
+                    "munich",
+                    "cologne",
+                    "frankfurt",
+                    "stuttgart",
+                    "dusseldorf",
+                    "paris",
+                    "toulouse",
+                    "nice",
+                    "madrid",
+                    "rome",
+                    "bucharest",
+                    "vienna",
+                    "stockholm",
+                    "naples",
+                    "amsterdam",
+                    "london",
+                    "bangalore",
+                    "kolkata",
+                    "chennai",
+                    "hydrabad"
+                ]
+            }
+        },
+        {
+            "intent": "Get City Fact",
+            "texts": [
+                "Tell me an interesting fact",
+                "Tell me facts that are trending",
+                "Tell me few interesting fact of last year",
+                "What are the new facts?",
+                "Share me few facts about economy",
+                "Tell me some funny fact",
+                "Tell me some fact?",
+                "Tell me somethiing",
+                "Please share an interesting fact?",
+                "Share me few past interesting facts?"
+            ],
+            "tags": {
+                "city" : [
+                    "berlin",
+                    "hamburg",
+                    "munich",
+                    "cologne",
+                    "frankfurt",
+                    "stuttgart",
+                    "dusseldorf",
+                    "paris",
+                    "toulouse",
+                    "nice",
+                    "madrid",
+                    "rome",
+                    "bucharest",
+                    "vienna",
+                    "stockholm",
+                    "naples",
+                    "amsterdam",
+                    "london",
+                    "bangalore",
+                    "kolkata",
+                    "chennai",
+                    "hydrabad"
+                ]
+            }
+        }
+    ]
+}
